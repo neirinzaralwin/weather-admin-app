@@ -1,0 +1,4 @@
+// ignore_for_file: constant_identifier_names
+
+const String SERVER_KEY =
+    "AAAAishybB0:APA91bG1E-lKkrlqxkS9i8Qpd7zZfmA8_PDwrJBX6VqNHp8lwxcfSkKuIv4oywxP3pCE_uULgr2WapYQRzYhyHA700LX4JJKQV-4twm8OLKuNeHKsM2ov89v4bB_yuNee1D86IQb954S";
